@@ -1,1 +1,0 @@
-# Group_6-bike_sharing_prediction
